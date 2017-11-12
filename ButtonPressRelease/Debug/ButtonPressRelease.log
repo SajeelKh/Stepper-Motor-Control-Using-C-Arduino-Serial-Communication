@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sajee_000\documents\visual studio 2015\projects\buttonpressrelease\buttonpressrelease\source.cpp(5): warning C4005: '_SECURE_SCL_DEPRECATE': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\yvals.h(296): note: see previous definition of '_SECURE_SCL_DEPRECATE'
+  ButtonPressRelease.vcxproj -> C:\Users\Sajee_000\documents\visual studio 2015\Projects\ButtonPressRelease\Debug\ButtonPressRelease.exe
+  ButtonPressRelease.vcxproj -> C:\Users\Sajee_000\documents\visual studio 2015\Projects\ButtonPressRelease\Debug\ButtonPressRelease.pdb (Partial PDB)
